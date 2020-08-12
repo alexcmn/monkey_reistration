@@ -1,0 +1,53 @@
+{
+    "langEn": "Engleski",
+    "langMne": "Crnogorski",
+    "langHr": "Hrvatski",
+    "buttons":{
+        "prev": "Prijašnji",
+        "next": "Sljedeći",
+        "submit": "Pošalji",
+        "close": "Zatvori"
+    },
+    "register": "Registracija",
+    "steps":{
+        "step1": "Osobne informacije",
+        "step2": "Informacije naloga",
+        "step3": "Potvrda"
+    },
+    "form":{
+        "input":{
+            "name": "Unesite ime",
+            "lastname": "Unesite prezime",
+            "email": "Unesite email",
+            "password": "Unesite šifru",
+            "confirmPassword": "Potvrdite šifru",
+            "username": "Unesite korisničko ime"
+        },
+        "label":{
+            "name": "Ime",
+            "lastname": "Prezime",
+            "email": "Email",
+            "password": "Šifra",
+            "confirmPassword": "Potvrdite šifru",
+            "username": "Korisničko ime"
+        }
+    },
+    "errors":{
+        "required": "Ovo polje je obavezno!",
+        "min": "{name} mora imati više od {numb} znakova",
+        "max": "{name} mora imati manje od {numb} znakova",
+        "email": "E-pošta nije valjana!",
+        "password": "Lozinke se ne podudaraju!"
+    },
+    "terms": "Uvjeti korištenja",
+    "modal":{
+        "success":{
+            "h1": "Uspjesno!",
+            "p": "Uspješno ste se registrirali!"
+        },
+        "error":{
+            "h1": "Error!",
+            "p": "Nešto je pošlo po zlu, pokušajte ponovo!"
+        }
+    }
+}

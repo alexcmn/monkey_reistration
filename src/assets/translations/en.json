@@ -1,0 +1,53 @@
+{
+    "langEn": "English",
+    "langMne": "Montenegrian",
+    "langHr": "Croatian",
+    "buttons":{
+        "prev": "Previous",
+        "next": "Next",
+        "submit": "Submit",
+        "close": "Close"
+    },
+    "register": "Register",
+    "steps":{
+        "step1": "Personal Info",
+        "step2": "Account Info",
+        "step3": "Confirm"
+    },
+    "form":{
+        "input":{
+            "name": "Enter name",
+            "lastname": "Enter lastname",
+            "email": "Enter email",
+            "password": "Enter password",
+            "confirmPassword": "Confirm Password",
+            "username": "Enter username"
+        },
+        "label":{
+            "name": "First Name",
+            "lastname": "Last Name",
+            "email": "Email",
+            "password": "Password",
+            "confirmPassword": "Confirm Password",
+            "username": "Username"
+        }
+    },
+    "errors":{
+        "required": "This field is required!",
+        "min": "{name} must have more than {numb} characters",
+        "max": "{name} must have less than {numb} characters",
+        "email": "Email is not valid!",
+        "password": "Passwords do not match!"
+    },
+    "terms": "Terms & Conditions",
+    "modal":{
+        "success":{
+            "h1": "Success!",
+            "p": "You have sucessfully registered!"
+        },
+        "error":{
+            "h1": "Error!",
+            "p": "Something went wrong, try again!"
+        }
+    }
+}
